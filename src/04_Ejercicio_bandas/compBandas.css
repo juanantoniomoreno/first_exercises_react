@@ -1,0 +1,24 @@
+header {
+    background-color: #ef6767;
+    padding: 2%;
+}
+
+.items {
+    margin-left: 2%;
+}
+
+.items a {
+    color: white;
+    text-decoration: none;
+    margin-right: 3%;
+}
+
+footer {
+    background-color: #ef6767;
+    color: white;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
